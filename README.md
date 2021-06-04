@@ -1,1 +1,1 @@
-# solar-system
+# Canvas simulation project of solar-system
